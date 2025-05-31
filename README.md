@@ -1,7 +1,7 @@
 # Metalens-DL-Framework-for-Tio2-GaN-Optical-Property
 This repository contains the datasets for the study "Beyond Application-Specific Design: A Generalized Deep Learning Framework for Optical Property Prediction in TiO2/GaN Nanophotonic Metasurfaces"
 
-#Contents
+# Contents
 Datasets include phase and transmission property of Tio2 and GaN nanorods.
 
 
